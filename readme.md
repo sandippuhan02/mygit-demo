@@ -1,2 +1,2 @@
-this is my project .
-tghis project is all about my portfilio.
+#git demo
+this is a demo for how to learn git and github. 
